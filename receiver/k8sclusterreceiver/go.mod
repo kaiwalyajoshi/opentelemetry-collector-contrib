@@ -14,7 +14,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.122.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/xk8stest v0.122.0
 	github.com/openshift/api v3.9.0+incompatible
-	github.com/openshift/client-go v0.0.0-20210521082421-73d9475a9142
+	github.com/openshift/client-go v0.0.0-20241203091221-452dfb8fa071
 	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/collector/component v1.28.0
 	go.opentelemetry.io/collector/component/componentstatus v0.122.0
@@ -125,7 +125,6 @@ require (
 	golang.org/x/text v0.23.0 // indirect
 	golang.org/x/time v0.7.0 // indirect
 	golang.org/x/tools v0.26.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20250106144421-5f5ef82da422 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250224174004-546df14abb99 // indirect
 	google.golang.org/grpc v1.71.0 // indirect
 	google.golang.org/protobuf v1.36.5 // indirect
